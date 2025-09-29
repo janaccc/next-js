@@ -11,6 +11,7 @@ CardsSkeleton,
 } from '@/app/ui/skeletons';
 
 
+
  
   export default async function Page() {
   // Remove `const latestInvoices = await fetchLatestInvoices()`
